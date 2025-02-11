@@ -1,0 +1,6 @@
+tensorflow==2.9.1
+opencv-python
+matplotlib
+numpy
+scikit-image
+tensorflow-datasets
